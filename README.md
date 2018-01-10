@@ -1,2 +1,2 @@
 # Medical-NER
-Medical named entity recognition
+Medical named entity recognition (LSTM-CRF)
